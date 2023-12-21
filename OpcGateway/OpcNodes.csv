@@ -1,0 +1,9 @@
+﻿# Address,TagName,EnableWrite
+ns=2;s=TestChannel.TestDevice.TestReadFloat, TestReadFloat, false
+ns=2;s=TestChannel.TestDevice.TestReadDouble, TestReadDouble, false
+ns=2;s=TestChannel.TestDevice.TestReadLong, TestReadLong, false
+ns=2;s=TestChannel.TestDevice.TestReadWord, TestReadWord, false
+ns=2;s=TestChannel.TestDevice.TestWriteFloat, TestWriteFloat, true
+ns=2;s=TestChannel.TestDevice.TestWriteWord, TestWriteWord, true
+ns=2;s=TestChannel.TestDevice.TestWriteLong, TestWriteLong, true
+ns=2;s=TestChannel.TestDevice.TestWriteDouble, TestWriteDouble, true
